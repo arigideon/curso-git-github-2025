@@ -1,1 +1,2 @@
 ls	-> Lista os arquivos do diretorio atual
+rm -rf	-> Remove os arquivos e pastas de forma recursiva do diretório
